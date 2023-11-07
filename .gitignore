@@ -2,6 +2,7 @@
 
 # dependencies
 Front/node_modules
+Back/model/fire-detection-model.h5
 /.pnp
 .pnp.js
 
