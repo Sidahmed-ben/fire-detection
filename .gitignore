@@ -3,7 +3,7 @@
 # dependencies
 Front/node_modules
 Front/video
-Back/
+Back/services/model/model/fire-detection-model.h5
 /.pnp
 .pnp.js
 
